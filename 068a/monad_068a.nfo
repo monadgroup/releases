@@ -1,0 +1,61 @@
+
+  ~ ~~ ~~~ MONAD PRESENTS ~~~ ~~ ~
+      _____  ____  _____   ___  
+     |  _  |/ ___||  _  | / _ \ 
+     | |/' / /___  \ V / / /_\ \
+     |  /| | ___ \ / _ \ |  _  |
+     \ |_/ / \_/ || |_| || | | |
+      \___/\_____/\_____/\_| |_/
+
+  -------- at Syntax 2017 --------
+
+       ~~ S T A R R I N G ~~
+       code & graphics: cpdt
+	  music: firewood & oobie
+
+
+	   ~~ G R E E T I N G ~~
+	   Alcatraz, Approximate,
+	 Brain Control, Conspiracy,
+	 Ctrl-Alt-Test, farbrausch,
+    logicoma, Mercury, Onslaught,
+	   rgba, rtificial, epoch,
+	         poobrain
+
+
+  Props to Virgill for
+  last-minute audio and synth-
+  wrangling help!
+
+
+cpdt:
+  So here it is, our first demo.
+  Ever since discovering the scene
+  in late 2016 most of my free time
+  has been spent working up to this,
+  from learning rendering, C++ and
+  OpenGL from scratch, to building
+  multiple tools prematurely and
+  then discarding them (but still
+  learning important things!). I'd
+  love to thank everyone in the
+  scene with their amazing skills
+  and creativity for the motivation.
+  You're all awesome!
+  
+  On December 10, Ferris and I are
+  going to be doing a stream going
+  through the technology behind the
+  demo. Make sure to join us - it's
+  gonna be a lot of fun... and keep
+  your eye out for more monad
+  madness!
+
+Things used:
+  CLion          https://www.jetbrains.com/clion/
+  emoon/Rocket   https://github.com/emoon/rocket
+  hg_sdf         http://mercury.sexy/hg_sdf/
+  kkrunchy       http://www.farbrausch.de/~fg/kkrunchy/
+  mingw-w64      https://mingw-w64.org/doku.php
+  opengl         https://www.opengl.org/
+  ShaderMinifier https://github.com/laurentlb/Shader_Minifier
