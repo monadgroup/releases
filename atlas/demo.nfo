@@ -11,6 +11,9 @@
 Tools used: DX11, Renoise, Rust,
             Squishy, Wavesabre
 
+Massive props to yx for helping
+resolve several bugs for the final
+version.
 
 Greetings to Alcatraz, Altair
 Approximate, CNCD Fairlight,
@@ -20,3 +23,24 @@ Ivory, Logicoma, Loonies, Mercury
 Ninjadev, Onslaught, Poo-brain
 Prismbeings, Quadtrip, rgba,
 Vaahtera, yx and everyone else!
+
+Full final version changelog:
+ - Post-party polish: adjusted
+   lighting and cuts slightly,
+   tweaked some animations, etc.
+ - Reduced target CPU to Sandy
+   Bridge/AVX for better compat
+   (previously it was Skylake/AVX2)
+ - Some QOL improvements to the
+   resolution selector
+ - Added audio prerender option to
+   config window
+ - Fixed logo on loading screen
+   being black on some systems
+
+Comments & links:
+  https://www.pouet.net/prod.php?which=80996
+Youtube capture:
+  https://youtu.be/mVdISz9-iFc
+High resolution screenshots:
+  http://noby.untergrund.net/img/atlas/
