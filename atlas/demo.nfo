@@ -28,8 +28,8 @@ Full final version changelog:
  - Post-party polish: adjusted
    lighting and cuts slightly,
    tweaked some animations, etc.
- - Reduced target CPU to Sandy
-   Bridge/AVX for better compat
+ - Reduced target CPU to
+   Pentium/SSE4.2 for better compat
    (previously it was Skylake/AVX2)
  - Some QOL improvements to the
    resolution selector
